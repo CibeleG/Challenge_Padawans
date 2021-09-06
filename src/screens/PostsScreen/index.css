@@ -1,0 +1,37 @@
+.icon-posts{
+    height: 6rem;
+    margin-top: 1.5rem;
+}
+
+.center {
+    justify-content: center;
+    padding-left: 0;
+  }
+
+.background{
+    border:1px solid #dadada;
+    border-radius: 20px;
+    margin: 1rem;
+}
+
+.col-line-top {
+    border-top: 1px solid #dadada;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1rem 1rem 1rem;
+    margin: 1rem 0rem 1rem 0rem;
+}
+
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.posts{
+    color: #3C064A;
+    font-family: 'Roboto';
+    font-size: 2rem;
+    margin-top: 1.5rem;
+}
+
